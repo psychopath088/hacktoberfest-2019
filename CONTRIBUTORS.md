@@ -829,3 +829,7 @@
 - Bio: Software Developer
 - GitHub: [GuilhermeFernandes01](https://github.com/GuilhermeFernandes01)
 
+#### Name: [Harshit Gupta](https://github.com/psychopath088)
+- Place: Ghaziabad, India
+- Bio: Student
+- GitHub: [psychopath088](https://github.com/psychopath088)
